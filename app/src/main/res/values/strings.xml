@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name" translatable="false">Me ayuda a revisar mi trabajo por favor:  Android 4 idiomas</string>
+    <string name="title2" translatable="false">Bienvenido! Mexico</string>
+    <string name="title3" translatable="false">Bienvenue! France</string>
+    <string name="title6" translatable="false">Welcome! USA</string>
+    <string name="title5" translatable="false">Herzlich willkommen! German</string>
+
+</resources>
